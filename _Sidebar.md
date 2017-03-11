@@ -1,2 +1,2 @@
-[[Home]]
-[[Blogs]]
+* [[Home]]
+* [[Blogs]]
