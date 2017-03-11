@@ -1,2 +1,2 @@
 * History
-** [Ada Palmer](http://www.exurbe.com/)
+    * [Ada Palmer](http://www.exurbe.com/)
