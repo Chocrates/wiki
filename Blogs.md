@@ -1,2 +1,2 @@
 * History
-    * [Ada Palmer](http://www.exurbe.com/)
+    * [Exe Urbe - Ada Palmer](http://www.exurbe.com/)
