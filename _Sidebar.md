@@ -1,2 +1,3 @@
 * [[Home]]
 * [[Blogs]]
+* [[Miscellaneous]]
