@@ -1,3 +1,5 @@
 * [[Home]]
 * [[Blogs]]
+* [[Permaculture]]
+    * [[Permaculture A Designers Manual]]
 * [[Miscellaneous]]
