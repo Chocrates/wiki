@@ -2,5 +2,5 @@
 * [[Blogs]]
 * [[Permaculture]]
     * [[Permaculture A Designers Manual]]
-        * [[11 - Dryland Strategies]]
+        * [[11-Dryland Strategies]]
 * [[Miscellaneous]]
