@@ -1,7 +1,7 @@
 * [[Home]]
 * [[Blogs]]
 * [[Projects]]
-    * [Soil Temperature][Soil-Temperature]]
+    * [[Soil Temperature]]
 * [[Permaculture]]
     * [[Permaculture A Designers Manual]]
         * [[11-Dryland Strategies]]
