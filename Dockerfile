@@ -6,4 +6,4 @@ volume /wiki
 workdir /wiki
 #cmd ['gollum','--port','80']
 CMD ["gollum", "--port", "80"]
-expose 80 
+expose 5000 
