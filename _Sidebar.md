@@ -1,6 +1,6 @@
 * [[Home]]
 * [[Blogs]]
-* [Projects]]
+* [[Projects]]
     * [Soil Temperature][Soil-Temperature]]
 * [[Permaculture]]
     * [[Permaculture A Designers Manual]]
