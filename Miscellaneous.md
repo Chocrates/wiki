@@ -5,4 +5,5 @@
 * [Thermosiphon](http://www.appropedia.org/Thermosiphon) as potential soil cooling method
     * Idea is to circulate water down below 30 cm to 100cm and to an inch or two below the soil and use the sun to cycle it
     *  May require a solar collector pushing the less dense hot water to a tank (white and shaded?) then the cool water at the bottom can circulate back to the collector cooling down deep in the soil and hopefully taking heat from the top of the soil to the collector
+    * Need the temperature sensor to both figure out of the temperature gradient is big enough to make this work and to confirm that it is doing anything
     
