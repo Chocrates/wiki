@@ -19,4 +19,18 @@
         * **Coolest at around 5 - 6 PM** - Verify, this looks wrong
     * Soil can hold more heat than air
         * 60° - 70°C at 5cm depth can be reached at peak
+* Soils
+    * expect alkaline soils, surface salts, and carbonates
+    * PH 8.5 - 9.0 to even 10 - 11 can be expected
+    * Draining sands can be irrigated with salt water at up to 1500 PPM concentration
+        * This is higher concentration than can be used for foliage irrigation
+    * Desert systems are extremely fragile, you need to assess often
+        * You also need to do small tests before doing large projects, to make sure it is going to work
+    * Plants that may benefit from soil amendments:
+        * Acacias
+        * Eucalyptus
+        * Legumes
+        * Pines
+        * Casuarina
+        * Event Garden Crops
 
