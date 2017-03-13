@@ -16,4 +16,4 @@
     * The low temperature is usually 8°C - 30°C
     * Air temperature rises 10° - 25° by 12-3PM
     * Soil temperature peaks about an hour earlier
-        * *Coolest at around 5 - 6 PM* - Verify, this looks wrong
+        * **Coolest at around 5 - 6 PM** - Verify, this looks wrong
