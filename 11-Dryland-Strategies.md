@@ -65,3 +65,12 @@
             * cut gutters away from main valley head and a larger proportion of the water to the side valleys
             * spill dams to excavated pools in cliff base
                 * will gather silt and need to be cleaned eventually
+            * You can grow VERY hardy trees in the upper surface if they are rock walled
+                * To protect from flood waters?
+                * To shade?
+            * Erect strong walls on wadi floor to collect silt
+                * For minor wadi's the entire thing can be walled
+                * For larger ones, leave a large channel in it and build fields to the side
+            * build earth and stone walls across lower plain to soak in the water
+                * Top with unpalatable shrubs
+            * The [Nabataeans](https://en.wikipedia.org/wiki/Nabataeans) have some of the most extensively researched wadi systems
