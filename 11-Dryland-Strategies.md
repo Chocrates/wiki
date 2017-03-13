@@ -33,4 +33,14 @@
         * Pines
         * Casuarina
         * Event Garden Crops
+    * Test your soil to know whats there and if you need to amend it.
+    * Mineral solubility changes with PH
+        * Plants may have a deficiency if the PH is wonky
+        * Therefore changing the solubility can change the available minerals
+    * Some notes:
+        * burying plastic bags with pin holes and fertilizer under trees can keep them fertilized for their entire life
+        * continuous pit mulching with jar's or such is an option?
+        * Avoid all biocides, they rely on aquatic life that is missing to break them down
+
+* Landscape Features
 
