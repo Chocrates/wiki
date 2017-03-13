@@ -32,7 +32,7 @@
         * Legumes
         * Pines
         * Casuarina
-        * Event Garden Crops
+        * Even Garden Crops
     * Test your soil to know whats there and if you need to amend it.
     * Mineral solubility changes with PH
         * Plants may have a deficiency if the PH is wonky
