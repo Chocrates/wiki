@@ -17,3 +17,6 @@
     * Air temperature rises 10° - 25° by 12-3PM
     * Soil temperature peaks about an hour earlier
         * **Coolest at around 5 - 6 PM** - Verify, this looks wrong
+    * Soil can hold more heat than air
+        * 60° - 70°C at 5cm depth can be reached at peak
+
