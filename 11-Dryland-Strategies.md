@@ -55,4 +55,13 @@
         * You can find scour holes, eroded holes in the top of the scarp
             * You can turn these in to cisterns or if they are filled with sand, line the rim with rocks and plant trees
             * Important sites for birds and wildlife since they are just big pits that hold water after rains
-
+        * Water Storage
+            * Start at top erosion surface
+            * dam across valleys in upper plateau and let flood water seep through more slowly
+            * cut gutters across top of scarp above useful caves
+                * prevent too much water splashing over our cave-house sites
+            * clear, deepen and seal the scour holes in the upper surface
+                * Some of these can lie inside dam walls as deep spots
+            * cut gutters away from main valley head and a larger proportion of the water to the side valleys
+            * spill dams to excavated pools in cliff base
+                * will gather silt and need to be cleaned eventually
