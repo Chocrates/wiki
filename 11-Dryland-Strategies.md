@@ -43,4 +43,16 @@
         * Avoid all biocides, they rely on aquatic life that is missing to break them down
 
 * Landscape Features
+    * The designer needs to take in to consideration local wind, water, and infiltration
+    * Rock and soil type, these will produce characteristics in local landforms
+    * aspect - a tiny bit of shade can change the local ecosystem immensely
+    * fire frequency
+    * date of last rain greater than 12mm
+    * Scarps and Wadi's (Cliffs and usually dry riverbeds)
+        * Similar to humid area land features but usually more angular and less rounded
+            * Less water to erode them?
+        * Scarps often have caves or notches in them of varying sizes
+        * You can find scour holes, eroded holes in the top of the scarp
+            * You can turn these in to cisterns or if they are filled with sand, line the rim with rocks and plant trees
+            * Important sites for birds and wildlife since they are just big pits that hold water after rains
 
