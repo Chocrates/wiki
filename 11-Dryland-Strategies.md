@@ -78,3 +78,7 @@
             * Minimum water left to run-off and rest left to soak in to desired area
             * Aim to absorb .5 to 1m of water for each field
             * requires active management in the storm, open upper resevoirs once rains cease to further absorb in to fields rather than lose to evaporation (guessing here)
+            * Put windmill on top of well or bore on top of scarp to pump water and let it gravity feed to house below
+            * Overgrazing is the biggest issue in arid lands
+        * Residuals, Domes and Inselbergs
+
