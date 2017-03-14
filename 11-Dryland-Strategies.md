@@ -74,3 +74,7 @@
             * build earth and stone walls across lower plain to soak in the water
                 * Top with unpalatable shrubs
             * The [Nabataeans](https://en.wikipedia.org/wiki/Nabataeans) have some of the most extensively researched wadi systems
+            * For every 1 Ha of irrigated orchard, 20Ha of catchment is reserved
+            * Minimum water left to run-off and rest left to soak in to desired area
+            * Aim to absorb .5 to 1m of water for each field
+            * requires active management in the storm, open upper resevoirs once rains cease to further absorb in to fields rather than lose to evaporation (guessing here)
