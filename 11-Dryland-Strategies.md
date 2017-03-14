@@ -124,6 +124,14 @@
                     * wind gaps less than 50% to drop sand out
                     * posts every 3-4m 
                     * 12°C temperature reduction in the shade of these fences has been measured
+                    * Moisture loss up to 3% less than open areas
+                    * key to starting hardy perennials adapted to dunes
+                * lethal soil temperatures rarely greater than 15cm depth
+                * trees placed in holes this deep or deeper can survive until they are big enough to shade themselves
+                    * Hole stabilized by woven basket or cardboard collar
+                    * LOTS of fertilizer a waste since rapid infiltration will bring it below the roots
+                        * wait until root web established to fertilize a lot
+
            
 
 
