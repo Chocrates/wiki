@@ -81,4 +81,7 @@
             * Put windmill on top of well or bore on top of scarp to pump water and let it gravity feed to house below
             * Overgrazing is the biggest issue in arid lands
     * Residuals, Domes and Inselbergs
+        * Example creating gutters on large stone domes to sunken/walled fields
+        * 20 - 1 ratio of used land to caught water
+        * 
 
