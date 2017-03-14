@@ -131,6 +131,8 @@
                     * Hole stabilized by woven basket or cardboard collar
                     * LOTS of fertilizer a waste since rapid infiltration will bring it below the roots
                         * wait until root web established to fertilize a lot
+               * Pioneer plants must be able to survive stem burial until area is stablised
+
 
            
 
