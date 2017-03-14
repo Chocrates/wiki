@@ -89,7 +89,42 @@
             * 20-30:1 ratio of catchment to useable water
         * Slowing down violent rivers and diverting parts to silt traps, reed beds, and dams is a good strategy
     * Dune country
-
+        * Occur as pavements or dune seas
+        * Dunes on pavement can be planted after rains
+            * fast growing grain or oat with acacia seedlings
+            * Mixed with fertilizer
+            * Grains grow fast and straw stays for a couple years
+            * Acaias grow and effect permanent stabilisation
+                * Acacia Victoriae
+                    * Copious leaf mulch
+            * tamarisk (large tree) may succeed if deeply set in dune base
+            * Pelleted seed broadcast from air can work
+                * mix seed, mud, fertilizer, insect repellant (copper sulphat with lime, neem powder, magnesite)
+                * pass through bladless minser
+                * vibrating tray with a slight slope
+                * dry them
+                * pellets won't get eaten by birds or insects
+            * pitting is a good choice
+                * disks with a quarter cut out on an axle dragged over ground
+                * Seed pellets sown soon after
+            * Dune blowouts on coasts need hand planting of quickset grasses
+                * Ammophila spp.
+                * mothbean seed
+                * brushes in 7m squares
+            * Dunes and dune fields can be thought of as large water tanks
+            * Top 6m can only be 4% moisture, damp below, at 40m it is saturated
+            * Dunes are the best place to establish permanent plantings, but we need to stabilize the dune
+            * Dune Stabilisation
+                * Salt surfaces, lichens, bacteria, fungi and algal mats form naturally and prevent erosiion, these prevent dunes from forming
+                * These crusts break apart with hooves and agriculture and recreational vehicles
+                * urgent stabilization can be done with tar oils, pebble beds, or brush fences
+                * Fences
+                    * .9 - 1m high
+                    * Parallel rows 7m apart across the main wind direction
+                    * wind gaps less than 50% to drop sand out
+                    * posts every 3-4m 
+                    * 12°C temperature reduction in the shade of these fences has been measured
+           
 
 
 
