@@ -83,5 +83,13 @@
     * Residuals, Domes and Inselbergs
         * Example creating gutters on large stone domes to sunken/walled fields
         * 20 - 1 ratio of used land to caught water
-        * 
+    * Fold Mountains
+        * Made up of Synclines and Anticlines
+        * Daming rivers can create large lakes
+            * 20-30:1 ratio of catchment to useable water
+        * Slowing down violent rivers and diverting parts to silt traps, reed beds, and dams is a good strategy
+    * Dune country
+
+
+
 
