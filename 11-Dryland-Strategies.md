@@ -133,8 +133,14 @@
                         * wait until root web established to fertilize a lot
                * Pioneer plants must be able to survive stem burial until area is stablised
     * Depressions and Basins
-
-           
+        * Tectonic Basins, Deflection Hollows, Pans
+        * Claypans can be treated with gypsum to increase infiltration
+            * Treated with sodium carbonate or bentonite to seal to store water
+            * Montmorilinite or illite clays swell and are impermeable after short rain
+        * Gilgais form as a result of swelling and shrinking
+            * Useful for water capture
+* Scalds
+    *    
 
 
 
