@@ -157,6 +157,12 @@
         * Aborigines used to burn dried cane-grass
         * Non saline can be re-vegetated with pitting
         * flood retention banks
+            * Bank of .5 - 1m is enough for adapted trees
+            * Trees assist in desalination
         * checkerboard ridging
-
+        * Ploughed or ripped clay helps infiltration
+        * Vegetation keeps the crevices open
+            * Avoid dry-leaf mulch species
+            * Use herbaceous or needle-leaf groups instead
+        
 
