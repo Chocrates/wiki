@@ -164,5 +164,13 @@
         * Vegetation keeps the crevices open
             * Avoid dry-leaf mulch species
             * Use herbaceous or needle-leaf groups instead
-        
+    * Saltpans and Salt Lakes
+        * Water enters from freshwater to deserts
+        * salt washed down by infiltration of water on saline surface sands
+        * Salt diffuses up from deep salted waters
+        * salt advects in rains from sea
+        * Salt is draw up by forceful local pumping and pollutes local soils
+    * Gilgais
+        * Small depressions in soil, made by clay, turn in to small lakes in rain
+        * Overgrazing turns them sandy and destroys them
 
