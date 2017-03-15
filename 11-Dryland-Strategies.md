@@ -140,7 +140,15 @@
         * Gilgais form as a result of swelling and shrinking
             * Useful for water capture
 * Scalds
-    *    
+    * Clay pans that have lost their topsoil
+    * Often [solonetic](http://home.cc.umanitoba.ca/~benbow/soils.html), high sodium content
+        * Clays tend to melt when wetted by rain forming an impermeable barrier
+        * Often done deliberatly for use in leading run-off water to tanks
+    * Not hollows but have a flow in and out of the area
+    * Grading the bank 10-15cm high with a cut on the lower side
+        * Roughly 1 third of total area to rebuild
+    * Sow seeds above the bank before the rains
+    * Eventually the banks will erode and you can do it again on another third, eventually rebuilding the entire bank
 
 
 
