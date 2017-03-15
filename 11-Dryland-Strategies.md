@@ -150,6 +150,13 @@
         * Sow seeds above the bank before the rains
         * Eventually the banks will erode and you can do it again on another third, eventually rebuilding the entire bank
     * Claypans
-
+        * Rarely overflow
+        * receive silty waters from clay soils after they pool
+        * Tall cane-grass can grow in wet season
+        * Duck and waterfowl nest until it dries, then rodents take refuge
+        * Aborigines used to burn dried cane-grass
+        * Non saline can be re-vegetated with pitting
+        * flood retention banks
+        * checkerboard ridging
 
 
