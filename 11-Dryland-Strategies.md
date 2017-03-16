@@ -203,4 +203,11 @@
         * Where saltbrush, bluebush, Acacias or other shrubs exist, use a tractor to drive a circle around them, pushing earth out.
         * 30 -100m across
 * Harvesting of water in Arid Lands
+    * Water is the dominant theme in arid areas
+    * Aims
+        * Store fresh water for cooking/drinking
+        * Divert sheet flow and waste water to gardens
+        * Infiltrate water into soils
+        * Slow water down to give it time to soak in
+
 
