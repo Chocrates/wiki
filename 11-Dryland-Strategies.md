@@ -245,4 +245,6 @@
     * Water spreading
         * Need to slow water down so it infiltrates
         * In arid areas underground water quickly picks up salt, so drill wells close to scarp walls
+        * Should aim for .5 - 1.2m of saturated soil in 48 hours
+            * This can be used to calculate needed size of catchment area with some tests
 
