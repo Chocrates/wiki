@@ -174,4 +174,10 @@
         * Small depressions in soil, made by clay, turn in to small lakes in rain
         * Overgrazing turns them sandy and destroys them
     * Flood-Outs, Gullies, and Badlands
-        *
+        * Flat valley floors usually 2-8cm deep, 20m wide
+        * If overgrazed will erode in to gullies
+        * Small gullies can be filled, large ones need gully planting
+            * Planted behind stone walls or gabion barricades
+        * Need to control gullies by stopping overuse
+        * Need walls or spreader banks to fix the water gullying
+        * Valleys above the gullies can have spreader channels or rip lines drawn downhill
