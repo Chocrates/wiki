@@ -181,3 +181,14 @@
         * Need to control gullies by stopping overuse
         * Need walls or spreader banks to fix the water gullying
         * Valleys above the gullies can have spreader channels or rip lines drawn downhill
+            * Riplines appear to be [Keylines](https://en.wikipedia.org/wiki/Keyline_design)
+            * I don't understand them quite yet, but they appear to be just trenches in the soil built by dragging an implement over the soil with a tractor along contour (or parallel to the keyline thus not neccesarily on contour?) such that the soil gets rehydrated
+             * Supposedly this makes the water appear to run uphill?
+        * In extensively gullied areas, there is generally no alternative other than to let the water flow in to the gullies and use it as growing fields
+            * Think this means that it would be too costly to fill up all the gullies
+        * Put a splash apron on weirs higher than .5m
+            * If interceptor banks are made above the gully head, lower flow allows weirs up to 1-1.5m without scour damage
+        * Weirs start at gully outlet and built in sequence upstream
+        * Prefer rock weirs to wire mesh
+        * Weirs need Vetiver grass or other touch plant to prevent erosion
+        * Pioneer legumes help rebuild soil
