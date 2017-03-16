@@ -214,6 +214,25 @@
         * Use swales to catch runoff
             * Ripped, sanded, graveled or planted to increase permeability
             * Need to be big enough to hold around %200 of total runoff and infiltrate it in to the soil up to 5m deep
-        * 
+        * Home water conservation can be done by two methods:
+            * Fit a float valve to home roof tanks and fill one a week
+            * meter use and charge with a sliding scale
+                * Excess use is much more costly than conservation this way
+        * Other methods for indoor/outdoor conservation:
+            * plant shrubberies instead of lawns
+            * Use subsurface trickle irrigation
+            * use mulch and shade
+            * shower and hand basin water diverted to low-head, low-flush cistern
+            * bathwater can be diverted to a pre-soak trough for laundry
+            * laundry water can be diverted to the garden
+            * Water saving shower heads and timers can be used
+            * Catch all roof rain water
+                * 20,000 - 50,000 liter tanks
+            * run all runoff to swales to trees or other crops
+            * If you are willing to go low-tech a rope and pulley shower (IE a bucket) is hygienic and very low water
+                * wash basins for laundry and hands
+                * earth closet toilets (Composting toilet?)
+
+
 
 
