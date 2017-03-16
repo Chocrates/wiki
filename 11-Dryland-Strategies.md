@@ -239,5 +239,10 @@
         * Roof dust and such will get in the cisterns but will settle on the bottom eventually
         * Beneficial to place limestone, dolomite or marble gravel in a bag in every cistern to harden the water and even out the ph
     * Water harvesting on open sites for tanks or cisterns
-
+        * can create low areas that pool to roofed cisterns to store water
+            * Needs to be in clay areas
+            * don't forget to have a wire mesh covering to prevent animals from getting in and drowning
+    * Water spreading
+        * Need to slow water down so it infiltrates
+        * In arid areas underground water quickly picks up salt, so drill wells close to scarp walls
 
