@@ -238,6 +238,6 @@
         * Closed cisterns will remain fresh for years
         * Roof dust and such will get in the cisterns but will settle on the bottom eventually
         * Beneficial to place limestone, dolomite or marble gravel in a bag in every cistern to harden the water and even out the ph
-
+    * Water harvesting on open sites for tanks or cisterns
 
 
