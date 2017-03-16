@@ -209,5 +209,11 @@
         * Divert sheet flow and waste water to gardens
         * Infiltrate water into soils
         * Slow water down to give it time to soak in
+    * Conservation of Rainwater
+        * Store roof and road runoff in cisterns
+        * Use swales to catch runoff
+            * Ripped, sanded, graveled or planted to increase permeability
+            * Need to be big enough to hold around %200 of total runoff and infiltrate it in to the soil up to 5m deep
+        * 
 
 
