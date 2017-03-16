@@ -192,3 +192,15 @@
         * Prefer rock weirs to wire mesh
         * Weirs need Vetiver grass or other touch plant to prevent erosion
         * Pioneer legumes help rebuild soil
+    * Stony (Gibber) Desert
+        * Stone covering soil from centuries of erosion
+        * A grader can [windrow](https://en.wikipedia.org/wiki/Windrow) the rocks creating an ideal place to start revegitation
+        * Build swales uphill of windrows
+        * Windrow in small stages, 10-30m apart
+    * Lower foothills and plains
+        * "flat" land usually has some grade, though imperceptible
+        * circle swales can help regenerate
+        * Where saltbrush, bluebush, Acacias or other shrubs exist, use a tractor to drive a circle around them, pushing earth out.
+        * 30 -100m across
+* Harvesting of water in Arid Lands
+
