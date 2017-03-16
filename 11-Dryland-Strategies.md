@@ -232,6 +232,11 @@
             * If you are willing to go low-tech a rope and pulley shower (IE a bucket) is hygienic and very low water
                 * wash basins for laundry and hands
                 * earth closet toilets (Composting toilet?)
+        * 1cm of rain on a 100 m^2 of surface will produce 1000l of water catchment
+        * We can turn big granite outcroppings (via gutters) or even hills via plastic, concrete, was, or bitumen into catchment areas that drain to cisterns
+        * Open cisterns will breed mosquito's, need to stock with mosquito eating fish
+        * Closed cisterns will remain fresh for years
+        * Roof dust and such will get in the cisterns but will settle on the bottom eventually
 
 
 
