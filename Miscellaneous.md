@@ -8,5 +8,8 @@
     *  May require a solar collector pushing the less dense hot water to a tank (white and shaded?) then the cool water at the bottom can circulate back to the collector cooling down deep in the soil and hopefully taking heat from the top of the soil to the collector
     * Need the temperature sensor to both figure out of the temperature gradient is big enough to make this work and to confirm that it is doing anything
 * [Note on proper user account already exists information leakage](https://security.stackexchange.com/a/40695/19740) - User experience usually trumps preventing the account name from leaking)  
-* [Let them eat dirt](https://www.amazon.com/Let-Them-Eat-Dirt-Oversanitized/dp/1616206497/ref=sr_1_1?ie=UTF8&qid=1478753933&sr=8-1&keywords=let+them+eat+dirt)
+* [Let them eat dirt](https://www.amazon.com/Let-Them-Eat-Dirt-Oversanitized/dp/1616206497/ref=sr_1_1?ie=UTF8&qid=1478753933&sr=8-1&keywords=let+them+eat+dirt) - Book on childhood microbiome and how it needs to get attacked to grow strong
+* Network Monitoring
+    * [Ethernet Network Tap](http://www.instructables.com/id/Make-a-Passive-Network-Tap/)
+    * [SiLK Instructions?](https://tools.netsa.cert.org/confluence/pages/viewpage.action?pageId=23298051)
     
