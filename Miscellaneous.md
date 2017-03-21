@@ -13,6 +13,7 @@
     * Network Monitoring
         * Design network such that we can tap and scan all traffic for signatures
         * [Ethernet Network Tap](http://www.instructables.com/id/Make-a-Passive-Network-Tap/)
+            * Maybe build a rpi case with the network tap built in? - [LifeHacker link on something similar](https://www.lifehacker.com.au/2015/11/how-to-build-a-portable-hacking-station-with-a-raspberry-pi-and-kali-linux/)
         * [SiLK Instructions?](https://tools.netsa.cert.org/confluence/pages/viewpage.action?pageId=23298051)
         * [Snort running on computer on tap](http://www.snort.org)
     * Anti-Virus/Anti-Malware
