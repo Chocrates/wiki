@@ -20,6 +20,8 @@
         * Linux options
             * [ClamAV](https://www.clamav.net/)
             * [Comodo](https://www.comodo.com/home/internet-security/antivirus-for-linux.php?track=8251)
+            * [Eset - Non free but has good review, also only one with a desktop linux client afaik](https://www.eset.com/us/home/antivirus-linux/#?years=2)
+                * [Admittedly few year old comparison](http://www.networkworld.com/article/2989137/linux/av-test-lab-tests-16-linux-antivirus-products-against-windows-and-linux-malware.html)
             * [chkrootkit](http://www.chkrootkit.org/)
         * Windows/macOS/Android
             * [Kaspersky Total Security - 5 Devices](https://store.kaspersky.com/store?Action=DisplayPage&Env=BASE&Locale=en_US&SiteID=kasperus&id=QuickBuyCartPage)
