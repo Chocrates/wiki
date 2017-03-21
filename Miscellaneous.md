@@ -9,7 +9,18 @@
     * Need the temperature sensor to both figure out of the temperature gradient is big enough to make this work and to confirm that it is doing anything
 * [Note on proper user account already exists information leakage](https://security.stackexchange.com/a/40695/19740) - User experience usually trumps preventing the account name from leaking)  
 * [Let them eat dirt](https://www.amazon.com/Let-Them-Eat-Dirt-Oversanitized/dp/1616206497/ref=sr_1_1?ie=UTF8&qid=1478753933&sr=8-1&keywords=let+them+eat+dirt) - Book on childhood microbiome and how it needs to get attacked to grow strong
-* Network Monitoring
-    * [Ethernet Network Tap](http://www.instructables.com/id/Make-a-Passive-Network-Tap/)
-    * [SiLK Instructions?](https://tools.netsa.cert.org/confluence/pages/viewpage.action?pageId=23298051)
+* Network Security
+    * Network Monitoring
+        * Design network such that we can tap and scan all traffic for signatures
+        * [Ethernet Network Tap](http://www.instructables.com/id/Make-a-Passive-Network-Tap/)
+        * [SiLK Instructions?](https://tools.netsa.cert.org/confluence/pages/viewpage.action?pageId=23298051)
+        * [Snort running on computer on tap](http://www.snort.org)
+    * Anti-Virus/Anti-Malware
+        * Linux options
+            * [ClamAV](https://www.clamav.net/)
+            * [Comodo](https://www.comodo.com/home/internet-security/antivirus-for-linux.php?track=8251)
+            * [chkrootkit](http://www.chkrootkit.org/)
+        * Windows/macOS/Android
+            * [Kaspersky Total Security - 5 Devices](https://store.kaspersky.com/store?Action=DisplayPage&Env=BASE&Locale=en_US&SiteID=kasperus&id=QuickBuyCartPage)
+
     
