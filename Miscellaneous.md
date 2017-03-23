@@ -29,3 +29,5 @@
 * [Bird Box and house sparrow info](http://www.sialis.org/index.html)
 * [nginx -> docker image reverse proxy](http://blog.florianlopes.io/host-multiple-websites-on-single-host-docker/)
     
+* [Enable Ubuntu serial console for virtual machines](https://help.ubuntu.com/community/SerialConsoleHowto)
+    * Try adding console=ttyS0,115200n8 to the GRUB_CMDLINE_LINUX variable in /etc/default/grub and running update-grub
