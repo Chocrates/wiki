@@ -2,6 +2,7 @@
 * [[Blogs]]
 * [[Projects]]
     * [[Soil Temperature]]
+    * [[Raspberry Pi WiFi Sniffer]]
 * [[Permaculture]]
     * [[Permaculture A Designers Manual]]
         * [[11-Dryland Strategies]]
