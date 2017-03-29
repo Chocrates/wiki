@@ -17,6 +17,7 @@
         * [4 Port Ethernet Tap](http://www.enigmacurry.com/articles/building-an-ethernet-tap//) - Mirrors the transmit lines of each input port to the output port
         * [SiLK Instructions?](https://tools.netsa.cert.org/confluence/pages/viewpage.action?pageId=23298051)
         * [Snort running on computer on tap](http://www.snort.org)
+        * [Blog talks about how gigabit network taps would function](http://www.fragmentationneeded.net/2012/01/ethernet-taps-dont-get-me-started.html)
     * Anti-Virus/Anti-Malware
         * Linux options
             * [ClamAV](https://www.clamav.net/)
