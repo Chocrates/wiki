@@ -6,4 +6,5 @@
 * [Nexmon drivers to the rescue](https://github.com/seemoo-lab/nexmon)
     * [Need to get libisl](http://stackoverflow.com/questions/33734143/gcc-unable-to-find-shared-library-libisl-so)
 * Add [--with-mysql-libraries=/usr/lib/arm-linux-gnueabihf](http://seclists.org/snort/2015/q3/219) to barnyard2 compile
-* Distro is: [Debian-6-0](https://www.raspberrypi.org/forums/viewtopic.php?f=36&t=110846)
+* Distro is: [Debian-6-0](https://www.raspberrypi.org/forums/viewtopic.php?f=36&t=110846)  
+* Needed to add the -P option to pulledpork.pl to get it to generate the snort.rules? - [see post here](https://groups.google.com/forum/#!topic/pulledpork-users/7GZz8EBctv8)
