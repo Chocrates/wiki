@@ -35,3 +35,4 @@
     * Try adding console=ttyS0,115200n8 to the GRUB_CMDLINE_LINUX variable in /etc/default/grub and running update-grub
 * [Spark - Exercise and the brain](https://www.amazon.com/Spark-Revolutionary-Science-Exercise-Brain/dp/0316113514)
 * [ MH Desk Reference ] (http://www.f4.ca/text/mhdr.html)
+* [Linux Priv Escalation resources](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
