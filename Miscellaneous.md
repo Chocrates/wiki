@@ -36,3 +36,4 @@
 * [Spark - Exercise and the brain](https://www.amazon.com/Spark-Revolutionary-Science-Exercise-Brain/dp/0316113514)
 * [ MH Desk Reference ] (http://www.f4.ca/text/mhdr.html)
 * [Linux Priv Escalation resources](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+* [DirtyCow](https://github.com/FireFart/dirtycow/blob/master/dirty.c)
