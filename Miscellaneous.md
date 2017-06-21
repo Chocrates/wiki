@@ -41,3 +41,8 @@
 
 * Ruby Notes
     * https://www.codecademy.com/learn/ruby
+
+* GNS3 Notes
+    * Solus needs to build from scratch
+    * Solus has no VNC Viewer it seems
+ 
