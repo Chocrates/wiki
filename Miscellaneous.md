@@ -51,6 +51,7 @@
     * Static Routing
     * Dynamic Routing
     * QOS
+       * qdisc?
     * Content caching?
     * Subnetting?
     * Port forwarding?
