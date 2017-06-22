@@ -45,4 +45,12 @@
 * GNS3 Notes
     * Solus needs to build from scratch
     * Solus has no VNC Viewer it seems
- 
+* Router notes
+    * NAT
+    * DHCP
+    * Static Routing
+    * Dynamic Routing
+    * QOS
+    * Content caching?
+    * Subnetting?
+    * Port forwarding?
