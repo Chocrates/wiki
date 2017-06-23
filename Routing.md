@@ -5,5 +5,7 @@
 * Edit /etc/network/interfaces
     * Just add new interfaces for now
         * Looks like adding them without the second line fails and they hang waiting for DHCP if you add the line?
+        * iface to our internet has to be dhcp for now, need to fix this
+        * Can only have one gateway in /etc/network/interfaces, defined by the dhcp interface to our network i guess?
     * lscpi should list the pci cards
     * ifconfig -a should list all of them
