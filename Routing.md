@@ -9,3 +9,6 @@
         * Can only have one gateway in /etc/network/interfaces, defined by the dhcp interface to our network i guess?
     * lscpi should list the pci cards
     * ifconfig -a should list all of them
+* Static routing:
+    chris@ubuntu:~$ sudo ip route del 10.0.1.0/24
+    chris@ubuntu:~$ sudo ip route add 10.0.1.0/24 via 10.0.1.1
