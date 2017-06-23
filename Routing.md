@@ -10,5 +10,6 @@
     * lscpi should list the pci cards
     * ifconfig -a should list all of them
 * Static routing:
-    chris@ubuntu:~$ sudo ip route del 10.0.1.0/24
-    chris@ubuntu:~$ sudo ip route add 10.0.1.0/24 via 10.0.1.1
+    * echo 1 > /proc/sys/net/ipv4/ip_forward
+    * chris@ubuntu:~$ sudo ip route del 10.0.1.0/24
+    * chris@ubuntu:~$ sudo ip route add 10.0.1.0/24 via 10.0.1.1
