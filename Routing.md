@@ -14,3 +14,15 @@
     * chris@ubuntu:~$ sudo ip route del 10.0.1.0/24
     * chris@ubuntu:~$ sudo ip route add 10.0.1.0/24 via 10.0.1.1
     * TODO: see if you can route to internet without NAT?
+* DHCP
+    * install isc-dhcp-server
+    * add interfaces to /etc/default/isc-dhcp-server
+    * edit /etc/dhcp/dhcp.conf
+    subnet 10.0.2.0 netmask 255.255.255.0 {
+        interface ens5;
+        range 10.0.2.2 10.0.2.254;
+        option routers 10.0.2.1;
+    }
+
+* NAT
+    * iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
