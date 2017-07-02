@@ -26,3 +26,7 @@
 
 * NAT
     * iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
+* Dynamic Routing
+    * install quagga
+    * Bird is another option
+    * Ubuntu 17.04 package is quagga but service is zebra?
