@@ -12,3 +12,6 @@
 * Dependency Inversion
     * Not just _Dependency Injection_
     * You should depend on abstractions and not concretions.  This implies injection since you will have to inject the concretions into the class/method.
+* Others
+    * [Fragile Base Class Problem](https://en.wikipedia.org/wiki/Fragile_base_class)
+        * [Composition solves this](https://en.wikipedia.org/wiki/Composition_over_inheritance)
