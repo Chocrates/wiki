@@ -4,6 +4,7 @@
     * [[Soil Temperature]]
     * [[Raspberry Pi WiFi Sniffer]]
     * [[Routing]]
+    * [[SOLID Principles]]
 * [[Permaculture]]
     * [[Permaculture A Designers Manual]]
         * [[11-Dryland Strategies]]
