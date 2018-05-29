@@ -5,6 +5,7 @@
     * [[Raspberry Pi WiFi Sniffer]]
     * [[Routing]]
     * [[SOLID Principles]]
+    * [[Continuous Delivery]]
 * [[Permaculture]]
     * [[Permaculture A Designers Manual]]
         * [[11-Dryland Strategies]]
