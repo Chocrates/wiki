@@ -1,5 +1,5 @@
 ## Chapter 2 - Configuration Management
-* _USE CONFIGURATION MANAGEMENT_
+* **USE CONFIGURATION MANAGEMENT**
     * The entire CD process flows out of this, there is no point continuing on unless you are doing this
 * Use it for everything
     * Code
