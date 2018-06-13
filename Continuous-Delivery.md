@@ -79,5 +79,21 @@
     * If low bandwidth is an issue, local builds could work
         * Preferred shipping binaries around, but building locally ad validating checksums 
 * Can't do CI with github or other DVCS when used as intended
-    * YOu could try to auto merge and build but it will fail
-* Look in to ["Promiscuous Integration"](https://martinfowler.com/bliki/FeatureBranch.html)
+    * You could try to auto merge and build but it will fail
+* Look in to ["Promiscuous Integration"](https://martinfowler.com/bliki/FeatureBranch.html)  
+
+## Chapter 4 - Testing Strategies
+* W. Edward Demmings - "Cease dependence on mass inspection..... Improve processes instead"
+* Write Automated tests at all levels
+    * Unit
+    * Component/Integration
+    * Acceptance
+* Run as part of the deployment pipeline
+    * How does that work with gated checkins?
+* Don't neglect usability and exploratory testing
+* Non-Functional tests should be automated
+    * Performance
+    * Security
+    * Etc.
+* See [agile testing Cripsin and Gregory Addison-Wesley 2009](https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468)
+* ![Brian Marick Test Matrix](https://lisacrispin.com/wp-content/uploads/2011/11/Agile-Testing-Quadrants.png)
