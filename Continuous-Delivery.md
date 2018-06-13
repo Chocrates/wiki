@@ -50,7 +50,7 @@
     * A view in to the builds and their history
     * Everything else is just extra
 * Practices
-    * DOn't check in to a broken build
+    * Don't check in to a broken build
     * Always run all tests before check-in
         * This can be done automatically with pre-commit hooks
     * Never go home on a broken build
@@ -59,3 +59,25 @@
             * Give the committer ten minutes or so to make the fix and test it and check it in, after that revert it and let them fix it
     * Don't comment out or disable tests
         * Consider failing the build if too many tests are commented out
+    * Everyone needs to take responsibility for their commits
+        * WHen the build breaks, but really at all times
+* Suggested practices
+    * TDD
+        * Though [TDD is dead?](https://www.martinfowler.com/articles/is-tdd-dead/)
+    * XP practices
+    * Architecture tests
+        * Automated tests that enforce code design
+    * Fail build on slow tests
+    * Test/Enforce code style
+        * I have seen Sonar do this fabulously
+* Distributed teams
+    * Essentially changes nothing these days
+        * Should use DVCS
+        * Failures are magnified as teams cross time zones - if a broken build is left after a "shift" the next TZ will be heavily affected
+        * Centralized and Virtualized CI is important
+            * Members in all regions should be empowered to maintain CI in case of issues
+    * If low bandwidth is an issue, local builds could work
+        * Preferred shipping binaries around, but building locally ad validating checksums 
+* Can't do CI with github or other DVCS when used as intended
+    * YOu could try to auto merge and build but it will fail
+* Look in to ["Promiscuous Integration"](https://martinfowler.com/bliki/FeatureBranch.html)
