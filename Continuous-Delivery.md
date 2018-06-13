@@ -31,4 +31,31 @@
     * Tested
 * Change should only come from CI/CD
     * Deployed instances should be locked down from getting changed outside of your process
-    * If they are not, you lose your traceability and your ability to rebuild what is in production
+    * If they are not, you lose your traceability and your ability to rebuild what is in production  
+
+## Chapter 3 - Continuous Integration
+* For CI you need
+    * Version Control
+    * Automated Build
+    * Agreement from the team to do CI and not break the build
+* Need to check in regularly
+    * Many times a day preferred, but at least once a day at minimum
+* Automated tests are absolutely mandatory, without them CI only ensures your stuff compiles
+* Build/Test run must be short, if it is long it won't get done
+* Devs should be able to get an up to date clean build at all times
+* CI Software is basically two parts
+    * Long running process that kicks off builds
+        * Scheduled
+        * Triggered by something (check-ins maybe)
+    * A view in to the builds and their history
+    * Everything else is just extra
+* Practices
+    * DOn't check in to a broken build
+    * Always run all tests before check-in
+        * This can be done automatically with pre-commit hooks
+    * Never go home on a broken build
+    * Be able to easily revert bad commits
+        * Consider time boxing fixes for broken builds
+            * Give the committer ten minutes or so to make the fix and test it and check it in, after that revert it and let them fix it
+    * Don't comment out or disable tests
+        * Consider failing the build if too many tests are commented out
