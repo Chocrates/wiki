@@ -97,3 +97,30 @@
     * Etc.
 * See [agile testing Cripsin and Gregory Addison-Wesley 2009](https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468)
 * ![Brian Marick Test Matrix](https://lisacrispin.com/wp-content/uploads/2011/11/Agile-Testing-Quadrants.png)
+* Business Development Tests
+    * Acceptence tests should be automated for each story before developent starts
+    * BDD allows Product Owners to write these
+    * SHould be run in a production like environment
+    * Part of the regression suite
+        * Implies should be eaisily run by devs when refactoring
+    * 80% coverage is "Comprehensive"
+    * Don't write many ui tests
+        * Rely on API Tests mostly
+* Tech facing tests - dev
+    * Unit etsts
+    * used to answer " Have I built what I inteded to?"
+        * Out of scope for here but probably needs its own section/blog post
+* Business Critique
+    * Users verify what they got
+        * Demo Portion of a sprint
+        * NO need to wait for the end of a sprint though
+        * Early and often o catch stuff
+        * Fine line with getting critique on implementation and new requirements though
+        * TODO: Reread scrum handbook and take notes
+     * UX Testing is important
+        * A/B testing a possible alternative
+* Tech tests critique
+    * Non-functional requirements should be specified
+    * DOn't wait until release make running part of the process
+    * Design systems to be testable
+    * Testing is the responsibility of everyone
